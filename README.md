@@ -1,11 +1,14 @@
 # Projekta nosaukums (1.variants tas kas gribu izdarīt)
 Platformas spēle
 ## Apraksts
-Platformas spēles, kuru galvenais mērķis ir pārvietot spēlētāja varoni starp punktiem renderētajā vidē.Spēles mērķis būs iziet vietām cauri šķēršļiem, lai sasniegtu finiša.
+Platformas spēles, kuru galvenais mērķis ir pārvietot spēlētāja varoni starp punktiem renderētajā vidē. Spēles mērķis būs iziet vietām cauri šķēršļiem, lai sasniegtu finiša.
+Varonis pārvietosies starp vietām, lai nokļūtu finiša, pa ceļam būs tādi šķēršļi kā bezdibenis, tapas un līdzīgi šķēršļi, ja varonis pieskaras šķēršļi vai iekrīt bezdibenī, viņam būs jāsāk ceļu no sākuma.
 ## Galvenās funkcijas
 	- Ievadīt tekstu
 	- Apstrādāt datus
-	- utt
+	- Lekt
+	- Iet (pa labi, pa kreisi)
+	- Parvietošana starp lokacijam
 ## Izmantotās tehnoloģijas
 	- C++
 	- SFML library
