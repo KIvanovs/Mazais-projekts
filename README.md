@@ -1,5 +1,4 @@
-#**1.variants(tas ko gribu izdarīt)
-
+#1.variants(tas ko gribu izdarīt)
 # Projekta nosaukums
 Platformas spēle
 ## Apraksts
