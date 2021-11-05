@@ -1,5 +1,4 @@
-#1.variants(tas ko gribu izdarīt)
-# Projekta nosaukums
+# Projekta nosaukums (1.variants tas kas gribu izdarīt)
 Platformas spēle
 ## Apraksts
 Platformas spēles, kuru galvenais mērķis ir pārvietot spēlētāja varoni starp punktiem renderētajā vidē.Spēles mērķis būs iziet vietām cauri šķēršļiem, lai sasniegtu finiša.
@@ -14,9 +13,8 @@ Platformas spēles, kuru galvenais mērķis ir pārvietot spēlētāja varoni st
 	- [SFML dokumentācija](https://www.sfml-dev.org/style.php)
 
 
-*2.variants(tas kas izdarīšu ja neizdevas 1 variants)
+# Projekta nosaukums (2.variants tas kas izdarīšu, ja neizdevas 1 variants)
 
-# Projekta nosaukums
 Atmiņas kartes
 ## Apraksts
 	Spēle "Atmiņas kartes" ir lauks, uz kura atrodas kartītes ar attēliem. Kartes ir nejaušā secībā, un katra no tām ir attēlota uz lauka 2 reizes. Sākotnēji kartes ir aizvērtas, un tās var atvērt, ievadot laukā, kurā tās atrodas. Vienlaicīgi var atvērt tikai divas kartītes (neskaitot jau atrastos pārus), tāpēc jāatceras bilžu atrašanās vieta. Ja atvērtie simboli sakrīt, atrastie pāri paliek uz lauka atvērtā formā. Spēles mērķis ir konsekventi atvērt visu laukumu.
