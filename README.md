@@ -1,4 +1,5 @@
-1.variants(tas ko gribu izdarīt)
+*1.variants(tas ko gribu izdarīt)
+
 # Projekta nosaukums
 Platformas spēle
 ## Apraksts
@@ -14,7 +15,8 @@ Platformas spēles, kuru galvenais mērķis ir pārvietot spēlētāja varoni st
 	- [SFML dokumentācija](https://www.sfml-dev.org/style.php)
 
 
-2.variants(tas kas izdarīšu ja neizdevas 1 variants)
+*2.variants(tas kas izdarīšu ja neizdevas 1 variants)
+
 # Projekta nosaukums
 Atmiņas kartes
 ## Apraksts
