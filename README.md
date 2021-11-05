@@ -16,7 +16,7 @@ Varonis pārvietosies starp vietām, lai nokļūtu finiša, pa ceļam būs tādi
 	- [SFML dokumentācija](https://www.sfml-dev.org/style.php)
 
 
-# Projekta nosaukums (2.variants tas kas izdarīšu, ja neizdevas 1 variants)
+# Projekta nosaukums (2.variants tas kas izdarīšu, ja neizdosies 1 variants)
 Atmiņas kartes
 ## Apraksts
 	Spēle "Atmiņas kartes" ir lauks, uz kura atrodas kartītes ar attēliem. Kartes ir nejaušā secībā, un katra no tām ir attēlota uz lauka 2 reizes. Sākotnēji kartes ir aizvērtas, un tās var atvērt, ievadot laukā, kurā tās atrodas. Vienlaicīgi var atvērt tikai divas kartītes (neskaitot jau atrastos pārus), tāpēc jāatceras bilžu atrašanās vieta. Ja atvērtie simboli sakrīt, atrastie pāri paliek uz lauka atvērtā formā. Spēles mērķis ir konsekventi atvērt visu laukumu.
